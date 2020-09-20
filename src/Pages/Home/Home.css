@@ -1,0 +1,29 @@
+.home header {
+  height: 6vh;
+  background-color: deepskyblue;
+}
+
+.home .navItem {
+  margin: 0;
+  float: left;
+}
+
+.home .navItems {
+  margin: 5px 5px 0px 5px;
+  float: left;
+}
+
+.home .link {
+  color: white;
+}
+
+.home main {
+  height: 90vh;
+  background-color: #282c34;
+  color: wheat;
+}
+
+.home footer {
+  height: 4vh;
+  background-color: deepskyblue;
+}
